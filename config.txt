@@ -1,6 +1,6 @@
-token=NTUxMDMwOTU3NDIzOTg0NjU1.D1rDGg.ptIcKgGNrOoNY3pI8ZXcFbYjWJc
-owner=476958270175838222
-prefix= 2m
+token=NTUwOTYwODk3OTQyODgwMjU3.D1wc_g.HaLhzjUtRHbdNYKGVX49rwmbTPY
+owner=423893025949876224
+prefix= dash
 game=
 stayinchannel=true
 songinstatus=false
